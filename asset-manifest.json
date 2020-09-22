@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/amralsyed3/React_Shopping_Cart.git/static/css/main.044b605a.chunk.css",
+    "main.js": "/amralsyed3/React_Shopping_Cart.git/static/js/main.89d9606a.chunk.js",
+    "main.js.map": "/amralsyed3/React_Shopping_Cart.git/static/js/main.89d9606a.chunk.js.map",
+    "runtime-main.js": "/amralsyed3/React_Shopping_Cart.git/static/js/runtime-main.90420e3e.js",
+    "runtime-main.js.map": "/amralsyed3/React_Shopping_Cart.git/static/js/runtime-main.90420e3e.js.map",
+    "static/js/2.10f6d4e6.chunk.js": "/amralsyed3/React_Shopping_Cart.git/static/js/2.10f6d4e6.chunk.js",
+    "static/js/2.10f6d4e6.chunk.js.map": "/amralsyed3/React_Shopping_Cart.git/static/js/2.10f6d4e6.chunk.js.map",
+    "index.html": "/amralsyed3/React_Shopping_Cart.git/index.html",
+    "precache-manifest.a6e23e3429048064d4268e62d979de70.js": "/amralsyed3/React_Shopping_Cart.git/precache-manifest.a6e23e3429048064d4268e62d979de70.js",
+    "service-worker.js": "/amralsyed3/React_Shopping_Cart.git/service-worker.js",
+    "static/css/main.044b605a.chunk.css.map": "/amralsyed3/React_Shopping_Cart.git/static/css/main.044b605a.chunk.css.map",
+    "static/js/2.10f6d4e6.chunk.js.LICENSE.txt": "/amralsyed3/React_Shopping_Cart.git/static/js/2.10f6d4e6.chunk.js.LICENSE.txt",
+    "static/media/MobacoTshirt.jpg": "/amralsyed3/React_Shopping_Cart.git/static/media/MobacoTshirt.3ca07785.jpg",
+    "static/media/TerranovaTshirt.jpg": "/amralsyed3/React_Shopping_Cart.git/static/media/TerranovaTshirt.4ba0002d.jpg",
+    "static/media/TerranovaTshirt2.jpg": "/amralsyed3/React_Shopping_Cart.git/static/media/TerranovaTshirt2.39165b85.jpg",
+    "static/media/App.css": "/amralsyed3/React_Shopping_Cart.git/static/media/cover.8b7d2a3f.jpg",
+    "static/media/greenTshirt.jpg": "/amralsyed3/React_Shopping_Cart.git/static/media/greenTshirt.4a682e1d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90420e3e.js",
+    "static/js/2.10f6d4e6.chunk.js",
+    "static/css/main.044b605a.chunk.css",
+    "static/js/main.89d9606a.chunk.js"
+  ]
+}
