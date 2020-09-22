@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/React_Shopping_Cart/static/css/main.e1f47112.chunk.css",
-    "main.js": "/React_Shopping_Cart/static/js/main.f91d93ba.chunk.js",
-    "main.js.map": "/React_Shopping_Cart/static/js/main.f91d93ba.chunk.js.map",
+    "main.js": "/React_Shopping_Cart/static/js/main.ee0788c3.chunk.js",
+    "main.js.map": "/React_Shopping_Cart/static/js/main.ee0788c3.chunk.js.map",
     "runtime-main.js": "/React_Shopping_Cart/static/js/runtime-main.9f2787fb.js",
     "runtime-main.js.map": "/React_Shopping_Cart/static/js/runtime-main.9f2787fb.js.map",
-    "static/js/2.10f6d4e6.chunk.js": "/React_Shopping_Cart/static/js/2.10f6d4e6.chunk.js",
-    "static/js/2.10f6d4e6.chunk.js.map": "/React_Shopping_Cart/static/js/2.10f6d4e6.chunk.js.map",
+    "static/js/2.93bc6b12.chunk.js": "/React_Shopping_Cart/static/js/2.93bc6b12.chunk.js",
+    "static/js/2.93bc6b12.chunk.js.map": "/React_Shopping_Cart/static/js/2.93bc6b12.chunk.js.map",
     "index.html": "/React_Shopping_Cart/index.html",
-    "precache-manifest.9702fa749e915d825f2a9963c4b16927.js": "/React_Shopping_Cart/precache-manifest.9702fa749e915d825f2a9963c4b16927.js",
+    "precache-manifest.bb5437947b8dcee20ea2189d5b783cc6.js": "/React_Shopping_Cart/precache-manifest.bb5437947b8dcee20ea2189d5b783cc6.js",
     "service-worker.js": "/React_Shopping_Cart/service-worker.js",
     "static/css/main.e1f47112.chunk.css.map": "/React_Shopping_Cart/static/css/main.e1f47112.chunk.css.map",
-    "static/js/2.10f6d4e6.chunk.js.LICENSE.txt": "/React_Shopping_Cart/static/js/2.10f6d4e6.chunk.js.LICENSE.txt",
+    "static/js/2.93bc6b12.chunk.js.LICENSE.txt": "/React_Shopping_Cart/static/js/2.93bc6b12.chunk.js.LICENSE.txt",
     "static/media/MobacoTshirt.jpg": "/React_Shopping_Cart/static/media/MobacoTshirt.3ca07785.jpg",
     "static/media/TerranovaTshirt.jpg": "/React_Shopping_Cart/static/media/TerranovaTshirt.4ba0002d.jpg",
     "static/media/TerranovaTshirt2.jpg": "/React_Shopping_Cart/static/media/TerranovaTshirt2.39165b85.jpg",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9f2787fb.js",
-    "static/js/2.10f6d4e6.chunk.js",
+    "static/js/2.93bc6b12.chunk.js",
     "static/css/main.e1f47112.chunk.css",
-    "static/js/main.f91d93ba.chunk.js"
+    "static/js/main.ee0788c3.chunk.js"
   ]
 }
